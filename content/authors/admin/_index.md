@@ -25,4 +25,6 @@ title: Sydney Purdue
 
 Sydney Purdue is a Senior Research Analyst in the Research Department of the Cook County Sheriff's Office, having previously been a fellow placed in the department by the International Innovation Corps. She graduated from the University of Chicago in 2018 with a B.S. in Statistics and a minor in Visual Arts. She is an organizer for the Chicago chapter of R-Ladies.
 
+Pronouns: she/her/hers
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
