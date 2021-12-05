@@ -9,7 +9,7 @@ links:
   name: Additional Information
   url: https://arts.uchicago.edu/eurydice
 slides: 
-summary: University Theater performance in Winter 2016
+summary: University Theater performance in Winter 2018
 tags:
 - Theater
 title: Eurydice
