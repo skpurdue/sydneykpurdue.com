@@ -27,4 +27,4 @@ Sydney Purdue is a Senior Research Analyst in the Research Department of the Coo
 
 Pronouns: she/her/hers
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/SydneyPurdueCV.pdf" "newtab" >}}CV{{< /staticref >}}.
